@@ -54,11 +54,9 @@ f   &= 1 - {b \over a} \\
 e^2 &= 1 - {b^2 \over a^2} \\ 
 N(\phi) &= {a^2 \over \sqrt{a^2 \cos^2(\phi) + b^2 \sin^2(\phi)}} 
          = {a \over \sqrt{1 - e^2 \sin^2(\phi)}} \\
-
 f &\text{ : flattening of the ellipsoid} \\
 a &\text{ : the equatorial radius(semi-major axis)} \\
 b &\text{ : the polar radius(semi-minor axis)}
-
 \end{align*}
 $$
 
