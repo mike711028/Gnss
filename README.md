@@ -13,11 +13,8 @@ Reference:
 ## Geodetic Coordinates
 **Geodetic coordinates** are a type of curvilinear orthogonal coordinate system used in geodesy based on a reference ellipsoid. They include **geodetic latitude** (north/south) ϕ, **longitude** (east/west) λ, and **ellipsoidal height** h (also known as geodetic height). The triad is also known as Earth ellipsoidal coordinates.
 
-<code style="color:red">
-Get one more parameter(height) than GCS
-</code>
+> Get one more parameter(height) than GCS
 
-<br/>
 
 ![](img/Geodetic%20coordinates.png)
 
