@@ -84,6 +84,4 @@ Reference:
 
 [[1]wikipedia Local tangent plane coordinates](https://en.m.wikipedia.org/wiki/Local_tangent_plane_coordinates)
 
-test
-
 
