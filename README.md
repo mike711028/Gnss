@@ -2,7 +2,9 @@
 ## Geographic coordinate system
 The **geographic coordinate system (GCS)** is a spherical or ellipsoidal coordinate system for measuring and communicating positions directly on the Earth as latitude, longitude.
 
-![](img/Geographic%20coordinate%20system.png)
+<p align="center">
+<img src=img/Geographic%20coordinate%20system.png>
+</p>
 
 Reference:
 
@@ -15,8 +17,9 @@ Reference:
 
 > Get one more parameter(height) than GCS
 
-
-![](img/Geodetic%20coordinates.png)
+<p align="center">
+<img src=img/Geodetic%20coordinates.png>
+</p>
 
 Reference:
 
@@ -25,8 +28,9 @@ Reference:
 ## ECEF Coordinate System
 The **Earth-centered, Earth-fixed coordinate system** (acronym **ECEF**), also known as the **geocentric coordinate system**, is a cartesian spatial reference system that represents locations in the vicinity of the Earth (including its surface, interior, atmosphere, and surrounding outer space) as X, Y, and Z measurements from its center of mass.​
 
-![](img/ECEF%20coordinate%20system.png)
-
+<p align="center">
+<img src=img/ECEF%20coordinate%20system.png>
+</p>
 
 Reference:
 
@@ -78,7 +82,9 @@ R = \begin{bmatrix} -\sin(\phi)\cos(\lambda) & -\sin(\phi)\sin(\lambda) & \cos(\
 \end{bmatrix}
 $$
 
-![](img/Local%20tangent%20plane%20coordinates.png)
+<p align="center">
+<img src=img/Local%20tangent%20plane%20coordinates.png>
+</p>
 
 Reference:
 
